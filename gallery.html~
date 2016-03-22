@@ -18,8 +18,6 @@
 			 <div id="gallery1"> <img src="gallery1.jpeg"  height="300px" width="300px">   </div>
 			 <div id="gallery2"><img src="gallery2.jpeg"   height="300px" width="300px">   </div>
              <div id="gallery3"><img src="gallery3.jpeg"   height="300px" width="300px"></div>
-			 <div id="gallery4"> <img src="gallery4.jpeg"   height="300px" width="300px"> </div>
-            </div>
           <div id="clear"></div> 
 
        <div id="footer">Watoto Kumi Children's Home</div>     
