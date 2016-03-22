@@ -1,0 +1,37 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Watoto Kumi Children's Home</title>
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+<body>
+<div class="menu-wrap">
+  <div class="menu">
+    <ul>
+      <li><a href="index.html" >Home</a></li>
+      <li><a href="aboutus.html">About Us</a></li>
+      <li><a href="gallery.html" class="active">Gallery</a></li>
+    </ul>
+  </div>
+         <div id="rightcolumn">
+			 <div id="gallery1"> <img src="gallery1.jpeg"  height="300px" width="300px">   </div>
+			 <div id="gallery2"><img src="gallery2.jpeg"   height="300px" width="300px">   </div>
+             <div id="gallery3"><img src="gallery3.jpeg"   height="300px" width="300px"></div>
+			 <div id="gallery4"> <img src="gallery4.jpeg"   height="300px" width="300px"> </div>
+            </div>
+          <div id="clear"></div> 
+
+       <div id="footer">Watoto Kumi Children's Home</div>     
+                        
+            
+        </div>
+        </div>
+</div>
+    
+    
+    
+    </body>
+
+
+</html>
