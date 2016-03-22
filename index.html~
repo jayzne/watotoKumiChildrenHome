@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset="utf-8" />
+    <title>Watoto Kumi Children's Home</title>
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="assets/styles/main.css" type="text/css" />
+  </head>
+  <body>
+      <header>
+    <h1>
+        <a href="index.html">Watoto Kumi Children's Home</a>
+          <ul>
+          <nav>
+          <li><a href="index.html" class="active">Home</a>
+          <li><a href="aboutus.html">About us</a>
+          <li><a href="gallery.html">Gallery</a>
+          <li><a href="programs.html">Programs</a>
+          <li><a href="stories.html">Stories</a>
+          </nav>
+          </ul>
+          </header>
+      <section>
+      <h2>Home away from home</h2>
+    <p><em>Watoto Kumi Children's Home</em> aims to provide a home to the thousands of abandoned, homeless children of the ages between 0-15 years. It provides a family setting where the children get to develop in a loving and nurturing environment, lacking nothing that a normal child gets.</p>
+      <p>The home is situated in Nairobi, the capital city of Kenya.</p>
+          <a href="stories.html">Join Us Now</a>
+          <section>Activities
+              <section>Sponsor Now
+                  <section>Donate Now
+                      <section>Programs
+                          <section>Stories
+                          </section>
+                      </section>
+                  </section>
+              </section>
+          </section>
+          </section>
+      <footer>
+      <small>&copy; Watoto Kumi Children's Home</small>
+          <nav>
+          <a href="index.html">Home</a>
+          <a href="aboutus.html">About us</a>
+          <a href="gallery.html">Gallery</a>
+          <a href="programs.html">Programs</a>
+          <a href="stories.html">Stories</a>
+          </nav>
+      </footer>
+  </body>
+</html>
